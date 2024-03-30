@@ -1,0 +1,14 @@
+C:\C#\FirstStepInCoding\16.FoodDelivery\bin\Debug\net8.0\16.FoodDelivery.exe
+C:\C#\FirstStepInCoding\16.FoodDelivery\bin\Debug\net8.0\16.FoodDelivery.deps.json
+C:\C#\FirstStepInCoding\16.FoodDelivery\bin\Debug\net8.0\16.FoodDelivery.runtimeconfig.json
+C:\C#\FirstStepInCoding\16.FoodDelivery\bin\Debug\net8.0\16.FoodDelivery.dll
+C:\C#\FirstStepInCoding\16.FoodDelivery\bin\Debug\net8.0\16.FoodDelivery.pdb
+C:\C#\FirstStepInCoding\16.FoodDelivery\obj\Debug\net8.0\16.FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\FirstStepInCoding\16.FoodDelivery\obj\Debug\net8.0\16.FoodDelivery.AssemblyInfoInputs.cache
+C:\C#\FirstStepInCoding\16.FoodDelivery\obj\Debug\net8.0\16.FoodDelivery.AssemblyInfo.cs
+C:\C#\FirstStepInCoding\16.FoodDelivery\obj\Debug\net8.0\16.FoodDelivery.csproj.CoreCompileInputs.cache
+C:\C#\FirstStepInCoding\16.FoodDelivery\obj\Debug\net8.0\16.FoodDelivery.dll
+C:\C#\FirstStepInCoding\16.FoodDelivery\obj\Debug\net8.0\refint\16.FoodDelivery.dll
+C:\C#\FirstStepInCoding\16.FoodDelivery\obj\Debug\net8.0\16.FoodDelivery.pdb
+C:\C#\FirstStepInCoding\16.FoodDelivery\obj\Debug\net8.0\16.FoodDelivery.genruntimeconfig.cache
+C:\C#\FirstStepInCoding\16.FoodDelivery\obj\Debug\net8.0\ref\16.FoodDelivery.dll

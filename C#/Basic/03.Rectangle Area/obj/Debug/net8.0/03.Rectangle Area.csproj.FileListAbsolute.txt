@@ -1,0 +1,14 @@
+C:\C#\FirstStepInCoding\03.Rectangle Area\bin\Debug\net8.0\03.Rectangle Area.exe
+C:\C#\FirstStepInCoding\03.Rectangle Area\bin\Debug\net8.0\03.Rectangle Area.deps.json
+C:\C#\FirstStepInCoding\03.Rectangle Area\bin\Debug\net8.0\03.Rectangle Area.runtimeconfig.json
+C:\C#\FirstStepInCoding\03.Rectangle Area\bin\Debug\net8.0\03.Rectangle Area.dll
+C:\C#\FirstStepInCoding\03.Rectangle Area\bin\Debug\net8.0\03.Rectangle Area.pdb
+C:\C#\FirstStepInCoding\03.Rectangle Area\obj\Debug\net8.0\03.Rectangle Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\FirstStepInCoding\03.Rectangle Area\obj\Debug\net8.0\03.Rectangle Area.AssemblyInfoInputs.cache
+C:\C#\FirstStepInCoding\03.Rectangle Area\obj\Debug\net8.0\03.Rectangle Area.AssemblyInfo.cs
+C:\C#\FirstStepInCoding\03.Rectangle Area\obj\Debug\net8.0\03.Rectangle Area.csproj.CoreCompileInputs.cache
+C:\C#\FirstStepInCoding\03.Rectangle Area\obj\Debug\net8.0\03.Rectangle Area.dll
+C:\C#\FirstStepInCoding\03.Rectangle Area\obj\Debug\net8.0\refint\03.Rectangle Area.dll
+C:\C#\FirstStepInCoding\03.Rectangle Area\obj\Debug\net8.0\03.Rectangle Area.pdb
+C:\C#\FirstStepInCoding\03.Rectangle Area\obj\Debug\net8.0\03.Rectangle Area.genruntimeconfig.cache
+C:\C#\FirstStepInCoding\03.Rectangle Area\obj\Debug\net8.0\ref\03.Rectangle Area.dll

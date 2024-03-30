@@ -1,0 +1,14 @@
+C:\C#\FirstStepInCoding\15.Repainting\bin\Debug\net8.0\15.Repainting.exe
+C:\C#\FirstStepInCoding\15.Repainting\bin\Debug\net8.0\15.Repainting.deps.json
+C:\C#\FirstStepInCoding\15.Repainting\bin\Debug\net8.0\15.Repainting.runtimeconfig.json
+C:\C#\FirstStepInCoding\15.Repainting\bin\Debug\net8.0\15.Repainting.dll
+C:\C#\FirstStepInCoding\15.Repainting\bin\Debug\net8.0\15.Repainting.pdb
+C:\C#\FirstStepInCoding\15.Repainting\obj\Debug\net8.0\15.Repainting.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\FirstStepInCoding\15.Repainting\obj\Debug\net8.0\15.Repainting.AssemblyInfoInputs.cache
+C:\C#\FirstStepInCoding\15.Repainting\obj\Debug\net8.0\15.Repainting.AssemblyInfo.cs
+C:\C#\FirstStepInCoding\15.Repainting\obj\Debug\net8.0\15.Repainting.csproj.CoreCompileInputs.cache
+C:\C#\FirstStepInCoding\15.Repainting\obj\Debug\net8.0\15.Repainting.dll
+C:\C#\FirstStepInCoding\15.Repainting\obj\Debug\net8.0\refint\15.Repainting.dll
+C:\C#\FirstStepInCoding\15.Repainting\obj\Debug\net8.0\15.Repainting.pdb
+C:\C#\FirstStepInCoding\15.Repainting\obj\Debug\net8.0\15.Repainting.genruntimeconfig.cache
+C:\C#\FirstStepInCoding\15.Repainting\obj\Debug\net8.0\ref\15.Repainting.dll

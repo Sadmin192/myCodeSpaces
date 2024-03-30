@@ -1,0 +1,14 @@
+C:\C#\FirstStepInCoding\13.VacationBooksList\bin\Debug\net8.0\13.VacationBooksList.exe
+C:\C#\FirstStepInCoding\13.VacationBooksList\bin\Debug\net8.0\13.VacationBooksList.deps.json
+C:\C#\FirstStepInCoding\13.VacationBooksList\bin\Debug\net8.0\13.VacationBooksList.runtimeconfig.json
+C:\C#\FirstStepInCoding\13.VacationBooksList\bin\Debug\net8.0\13.VacationBooksList.dll
+C:\C#\FirstStepInCoding\13.VacationBooksList\bin\Debug\net8.0\13.VacationBooksList.pdb
+C:\C#\FirstStepInCoding\13.VacationBooksList\obj\Debug\net8.0\13.VacationBooksList.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\FirstStepInCoding\13.VacationBooksList\obj\Debug\net8.0\13.VacationBooksList.AssemblyInfoInputs.cache
+C:\C#\FirstStepInCoding\13.VacationBooksList\obj\Debug\net8.0\13.VacationBooksList.AssemblyInfo.cs
+C:\C#\FirstStepInCoding\13.VacationBooksList\obj\Debug\net8.0\13.VacationBooksList.csproj.CoreCompileInputs.cache
+C:\C#\FirstStepInCoding\13.VacationBooksList\obj\Debug\net8.0\13.VacationBooksList.dll
+C:\C#\FirstStepInCoding\13.VacationBooksList\obj\Debug\net8.0\refint\13.VacationBooksList.dll
+C:\C#\FirstStepInCoding\13.VacationBooksList\obj\Debug\net8.0\13.VacationBooksList.pdb
+C:\C#\FirstStepInCoding\13.VacationBooksList\obj\Debug\net8.0\13.VacationBooksList.genruntimeconfig.cache
+C:\C#\FirstStepInCoding\13.VacationBooksList\obj\Debug\net8.0\ref\13.VacationBooksList.dll

@@ -1,0 +1,14 @@
+C:\C#\FirstStepInCoding\05.GreetingByName\bin\Debug\net8.0\05.GreetingByName.exe
+C:\C#\FirstStepInCoding\05.GreetingByName\bin\Debug\net8.0\05.GreetingByName.deps.json
+C:\C#\FirstStepInCoding\05.GreetingByName\bin\Debug\net8.0\05.GreetingByName.runtimeconfig.json
+C:\C#\FirstStepInCoding\05.GreetingByName\bin\Debug\net8.0\05.GreetingByName.dll
+C:\C#\FirstStepInCoding\05.GreetingByName\bin\Debug\net8.0\05.GreetingByName.pdb
+C:\C#\FirstStepInCoding\05.GreetingByName\obj\Debug\net8.0\05.GreetingByName.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\FirstStepInCoding\05.GreetingByName\obj\Debug\net8.0\05.GreetingByName.AssemblyInfoInputs.cache
+C:\C#\FirstStepInCoding\05.GreetingByName\obj\Debug\net8.0\05.GreetingByName.AssemblyInfo.cs
+C:\C#\FirstStepInCoding\05.GreetingByName\obj\Debug\net8.0\05.GreetingByName.csproj.CoreCompileInputs.cache
+C:\C#\FirstStepInCoding\05.GreetingByName\obj\Debug\net8.0\05.GreetingByName.dll
+C:\C#\FirstStepInCoding\05.GreetingByName\obj\Debug\net8.0\refint\05.GreetingByName.dll
+C:\C#\FirstStepInCoding\05.GreetingByName\obj\Debug\net8.0\05.GreetingByName.pdb
+C:\C#\FirstStepInCoding\05.GreetingByName\obj\Debug\net8.0\05.GreetingByName.genruntimeconfig.cache
+C:\C#\FirstStepInCoding\05.GreetingByName\obj\Debug\net8.0\ref\05.GreetingByName.dll

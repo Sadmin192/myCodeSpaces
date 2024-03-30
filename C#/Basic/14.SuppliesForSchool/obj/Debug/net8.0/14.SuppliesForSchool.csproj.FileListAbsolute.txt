@@ -1,0 +1,14 @@
+C:\C#\FirstStepInCoding\14.SuppliesForSchool\bin\Debug\net8.0\14.SuppliesForSchool.exe
+C:\C#\FirstStepInCoding\14.SuppliesForSchool\bin\Debug\net8.0\14.SuppliesForSchool.deps.json
+C:\C#\FirstStepInCoding\14.SuppliesForSchool\bin\Debug\net8.0\14.SuppliesForSchool.runtimeconfig.json
+C:\C#\FirstStepInCoding\14.SuppliesForSchool\bin\Debug\net8.0\14.SuppliesForSchool.dll
+C:\C#\FirstStepInCoding\14.SuppliesForSchool\bin\Debug\net8.0\14.SuppliesForSchool.pdb
+C:\C#\FirstStepInCoding\14.SuppliesForSchool\obj\Debug\net8.0\14.SuppliesForSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\FirstStepInCoding\14.SuppliesForSchool\obj\Debug\net8.0\14.SuppliesForSchool.AssemblyInfoInputs.cache
+C:\C#\FirstStepInCoding\14.SuppliesForSchool\obj\Debug\net8.0\14.SuppliesForSchool.AssemblyInfo.cs
+C:\C#\FirstStepInCoding\14.SuppliesForSchool\obj\Debug\net8.0\14.SuppliesForSchool.csproj.CoreCompileInputs.cache
+C:\C#\FirstStepInCoding\14.SuppliesForSchool\obj\Debug\net8.0\14.SuppliesForSchool.dll
+C:\C#\FirstStepInCoding\14.SuppliesForSchool\obj\Debug\net8.0\refint\14.SuppliesForSchool.dll
+C:\C#\FirstStepInCoding\14.SuppliesForSchool\obj\Debug\net8.0\14.SuppliesForSchool.pdb
+C:\C#\FirstStepInCoding\14.SuppliesForSchool\obj\Debug\net8.0\14.SuppliesForSchool.genruntimeconfig.cache
+C:\C#\FirstStepInCoding\14.SuppliesForSchool\obj\Debug\net8.0\ref\14.SuppliesForSchool.dll

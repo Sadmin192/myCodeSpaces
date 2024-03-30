@@ -1,0 +1,14 @@
+C:\C#\FirstStepInCoding\09.Yard Greening\bin\Debug\net8.0\09.Yard Greening.exe
+C:\C#\FirstStepInCoding\09.Yard Greening\bin\Debug\net8.0\09.Yard Greening.deps.json
+C:\C#\FirstStepInCoding\09.Yard Greening\bin\Debug\net8.0\09.Yard Greening.runtimeconfig.json
+C:\C#\FirstStepInCoding\09.Yard Greening\bin\Debug\net8.0\09.Yard Greening.dll
+C:\C#\FirstStepInCoding\09.Yard Greening\bin\Debug\net8.0\09.Yard Greening.pdb
+C:\C#\FirstStepInCoding\09.Yard Greening\obj\Debug\net8.0\09.Yard Greening.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\FirstStepInCoding\09.Yard Greening\obj\Debug\net8.0\09.Yard Greening.AssemblyInfoInputs.cache
+C:\C#\FirstStepInCoding\09.Yard Greening\obj\Debug\net8.0\09.Yard Greening.AssemblyInfo.cs
+C:\C#\FirstStepInCoding\09.Yard Greening\obj\Debug\net8.0\09.Yard Greening.csproj.CoreCompileInputs.cache
+C:\C#\FirstStepInCoding\09.Yard Greening\obj\Debug\net8.0\09.Yard Greening.dll
+C:\C#\FirstStepInCoding\09.Yard Greening\obj\Debug\net8.0\refint\09.Yard Greening.dll
+C:\C#\FirstStepInCoding\09.Yard Greening\obj\Debug\net8.0\09.Yard Greening.pdb
+C:\C#\FirstStepInCoding\09.Yard Greening\obj\Debug\net8.0\09.Yard Greening.genruntimeconfig.cache
+C:\C#\FirstStepInCoding\09.Yard Greening\obj\Debug\net8.0\ref\09.Yard Greening.dll

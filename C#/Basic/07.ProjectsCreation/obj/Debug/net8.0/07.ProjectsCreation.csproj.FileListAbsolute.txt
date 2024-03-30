@@ -1,0 +1,14 @@
+C:\C#\FirstStepInCoding\07.ProjectsCreation\bin\Debug\net8.0\07.ProjectsCreation.exe
+C:\C#\FirstStepInCoding\07.ProjectsCreation\bin\Debug\net8.0\07.ProjectsCreation.deps.json
+C:\C#\FirstStepInCoding\07.ProjectsCreation\bin\Debug\net8.0\07.ProjectsCreation.runtimeconfig.json
+C:\C#\FirstStepInCoding\07.ProjectsCreation\bin\Debug\net8.0\07.ProjectsCreation.dll
+C:\C#\FirstStepInCoding\07.ProjectsCreation\bin\Debug\net8.0\07.ProjectsCreation.pdb
+C:\C#\FirstStepInCoding\07.ProjectsCreation\obj\Debug\net8.0\07.ProjectsCreation.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\FirstStepInCoding\07.ProjectsCreation\obj\Debug\net8.0\07.ProjectsCreation.AssemblyInfoInputs.cache
+C:\C#\FirstStepInCoding\07.ProjectsCreation\obj\Debug\net8.0\07.ProjectsCreation.AssemblyInfo.cs
+C:\C#\FirstStepInCoding\07.ProjectsCreation\obj\Debug\net8.0\07.ProjectsCreation.csproj.CoreCompileInputs.cache
+C:\C#\FirstStepInCoding\07.ProjectsCreation\obj\Debug\net8.0\07.ProjectsCreation.dll
+C:\C#\FirstStepInCoding\07.ProjectsCreation\obj\Debug\net8.0\refint\07.ProjectsCreation.dll
+C:\C#\FirstStepInCoding\07.ProjectsCreation\obj\Debug\net8.0\07.ProjectsCreation.pdb
+C:\C#\FirstStepInCoding\07.ProjectsCreation\obj\Debug\net8.0\07.ProjectsCreation.genruntimeconfig.cache
+C:\C#\FirstStepInCoding\07.ProjectsCreation\obj\Debug\net8.0\ref\07.ProjectsCreation.dll

@@ -1,0 +1,14 @@
+C:\C#\FirstStepInCoding\12.DepositCalculator\bin\Debug\net8.0\12.DepositCalculator.exe
+C:\C#\FirstStepInCoding\12.DepositCalculator\bin\Debug\net8.0\12.DepositCalculator.deps.json
+C:\C#\FirstStepInCoding\12.DepositCalculator\bin\Debug\net8.0\12.DepositCalculator.runtimeconfig.json
+C:\C#\FirstStepInCoding\12.DepositCalculator\bin\Debug\net8.0\12.DepositCalculator.dll
+C:\C#\FirstStepInCoding\12.DepositCalculator\bin\Debug\net8.0\12.DepositCalculator.pdb
+C:\C#\FirstStepInCoding\12.DepositCalculator\obj\Debug\net8.0\12.DepositCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\FirstStepInCoding\12.DepositCalculator\obj\Debug\net8.0\12.DepositCalculator.AssemblyInfoInputs.cache
+C:\C#\FirstStepInCoding\12.DepositCalculator\obj\Debug\net8.0\12.DepositCalculator.AssemblyInfo.cs
+C:\C#\FirstStepInCoding\12.DepositCalculator\obj\Debug\net8.0\12.DepositCalculator.csproj.CoreCompileInputs.cache
+C:\C#\FirstStepInCoding\12.DepositCalculator\obj\Debug\net8.0\12.DepositCalculator.dll
+C:\C#\FirstStepInCoding\12.DepositCalculator\obj\Debug\net8.0\refint\12.DepositCalculator.dll
+C:\C#\FirstStepInCoding\12.DepositCalculator\obj\Debug\net8.0\12.DepositCalculator.pdb
+C:\C#\FirstStepInCoding\12.DepositCalculator\obj\Debug\net8.0\12.DepositCalculator.genruntimeconfig.cache
+C:\C#\FirstStepInCoding\12.DepositCalculator\obj\Debug\net8.0\ref\12.DepositCalculator.dll

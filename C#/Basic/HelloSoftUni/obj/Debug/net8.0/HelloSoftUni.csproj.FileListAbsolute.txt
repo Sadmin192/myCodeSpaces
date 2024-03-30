@@ -1,0 +1,14 @@
+C:\C#\FirstStepInCoding\HelloSoftUni\bin\Debug\net8.0\HelloSoftUni.exe
+C:\C#\FirstStepInCoding\HelloSoftUni\bin\Debug\net8.0\HelloSoftUni.deps.json
+C:\C#\FirstStepInCoding\HelloSoftUni\bin\Debug\net8.0\HelloSoftUni.runtimeconfig.json
+C:\C#\FirstStepInCoding\HelloSoftUni\bin\Debug\net8.0\HelloSoftUni.dll
+C:\C#\FirstStepInCoding\HelloSoftUni\bin\Debug\net8.0\HelloSoftUni.pdb
+C:\C#\FirstStepInCoding\HelloSoftUni\obj\Debug\net8.0\HelloSoftUni.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\FirstStepInCoding\HelloSoftUni\obj\Debug\net8.0\HelloSoftUni.AssemblyInfoInputs.cache
+C:\C#\FirstStepInCoding\HelloSoftUni\obj\Debug\net8.0\HelloSoftUni.AssemblyInfo.cs
+C:\C#\FirstStepInCoding\HelloSoftUni\obj\Debug\net8.0\HelloSoftUni.csproj.CoreCompileInputs.cache
+C:\C#\FirstStepInCoding\HelloSoftUni\obj\Debug\net8.0\HelloSoftUni.dll
+C:\C#\FirstStepInCoding\HelloSoftUni\obj\Debug\net8.0\refint\HelloSoftUni.dll
+C:\C#\FirstStepInCoding\HelloSoftUni\obj\Debug\net8.0\HelloSoftUni.pdb
+C:\C#\FirstStepInCoding\HelloSoftUni\obj\Debug\net8.0\HelloSoftUni.genruntimeconfig.cache
+C:\C#\FirstStepInCoding\HelloSoftUni\obj\Debug\net8.0\ref\HelloSoftUni.dll

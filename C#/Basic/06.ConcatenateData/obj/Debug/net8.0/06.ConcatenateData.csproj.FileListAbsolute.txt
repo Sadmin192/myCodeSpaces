@@ -1,0 +1,14 @@
+C:\C#\FirstStepInCoding\06.ConcatenateData\bin\Debug\net8.0\06.ConcatenateData.exe
+C:\C#\FirstStepInCoding\06.ConcatenateData\bin\Debug\net8.0\06.ConcatenateData.deps.json
+C:\C#\FirstStepInCoding\06.ConcatenateData\bin\Debug\net8.0\06.ConcatenateData.runtimeconfig.json
+C:\C#\FirstStepInCoding\06.ConcatenateData\bin\Debug\net8.0\06.ConcatenateData.dll
+C:\C#\FirstStepInCoding\06.ConcatenateData\bin\Debug\net8.0\06.ConcatenateData.pdb
+C:\C#\FirstStepInCoding\06.ConcatenateData\obj\Debug\net8.0\06.ConcatenateData.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\FirstStepInCoding\06.ConcatenateData\obj\Debug\net8.0\06.ConcatenateData.AssemblyInfoInputs.cache
+C:\C#\FirstStepInCoding\06.ConcatenateData\obj\Debug\net8.0\06.ConcatenateData.AssemblyInfo.cs
+C:\C#\FirstStepInCoding\06.ConcatenateData\obj\Debug\net8.0\06.ConcatenateData.csproj.CoreCompileInputs.cache
+C:\C#\FirstStepInCoding\06.ConcatenateData\obj\Debug\net8.0\06.ConcatenateData.dll
+C:\C#\FirstStepInCoding\06.ConcatenateData\obj\Debug\net8.0\refint\06.ConcatenateData.dll
+C:\C#\FirstStepInCoding\06.ConcatenateData\obj\Debug\net8.0\06.ConcatenateData.pdb
+C:\C#\FirstStepInCoding\06.ConcatenateData\obj\Debug\net8.0\06.ConcatenateData.genruntimeconfig.cache
+C:\C#\FirstStepInCoding\06.ConcatenateData\obj\Debug\net8.0\ref\06.ConcatenateData.dll

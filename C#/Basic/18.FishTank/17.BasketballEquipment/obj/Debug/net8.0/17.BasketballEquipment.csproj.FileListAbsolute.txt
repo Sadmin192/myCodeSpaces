@@ -1,0 +1,14 @@
+C:\C#\FirstStepInCoding\17.BasketballEquipment\bin\Debug\net8.0\17.BasketballEquipment.exe
+C:\C#\FirstStepInCoding\17.BasketballEquipment\bin\Debug\net8.0\17.BasketballEquipment.deps.json
+C:\C#\FirstStepInCoding\17.BasketballEquipment\bin\Debug\net8.0\17.BasketballEquipment.runtimeconfig.json
+C:\C#\FirstStepInCoding\17.BasketballEquipment\bin\Debug\net8.0\17.BasketballEquipment.dll
+C:\C#\FirstStepInCoding\17.BasketballEquipment\bin\Debug\net8.0\17.BasketballEquipment.pdb
+C:\C#\FirstStepInCoding\17.BasketballEquipment\obj\Debug\net8.0\17.BasketballEquipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\FirstStepInCoding\17.BasketballEquipment\obj\Debug\net8.0\17.BasketballEquipment.AssemblyInfoInputs.cache
+C:\C#\FirstStepInCoding\17.BasketballEquipment\obj\Debug\net8.0\17.BasketballEquipment.AssemblyInfo.cs
+C:\C#\FirstStepInCoding\17.BasketballEquipment\obj\Debug\net8.0\17.BasketballEquipment.csproj.CoreCompileInputs.cache
+C:\C#\FirstStepInCoding\17.BasketballEquipment\obj\Debug\net8.0\17.BasketballEquipment.dll
+C:\C#\FirstStepInCoding\17.BasketballEquipment\obj\Debug\net8.0\refint\17.BasketballEquipment.dll
+C:\C#\FirstStepInCoding\17.BasketballEquipment\obj\Debug\net8.0\17.BasketballEquipment.pdb
+C:\C#\FirstStepInCoding\17.BasketballEquipment\obj\Debug\net8.0\17.BasketballEquipment.genruntimeconfig.cache
+C:\C#\FirstStepInCoding\17.BasketballEquipment\obj\Debug\net8.0\ref\17.BasketballEquipment.dll

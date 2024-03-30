@@ -1,0 +1,14 @@
+C:\C#\FirstStepInCoding\18.FishTank\bin\Debug\net8.0\18.FishTank.exe
+C:\C#\FirstStepInCoding\18.FishTank\bin\Debug\net8.0\18.FishTank.deps.json
+C:\C#\FirstStepInCoding\18.FishTank\bin\Debug\net8.0\18.FishTank.runtimeconfig.json
+C:\C#\FirstStepInCoding\18.FishTank\bin\Debug\net8.0\18.FishTank.dll
+C:\C#\FirstStepInCoding\18.FishTank\bin\Debug\net8.0\18.FishTank.pdb
+C:\C#\FirstStepInCoding\18.FishTank\obj\Debug\net8.0\18.FishTank.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\FirstStepInCoding\18.FishTank\obj\Debug\net8.0\18.FishTank.AssemblyInfoInputs.cache
+C:\C#\FirstStepInCoding\18.FishTank\obj\Debug\net8.0\18.FishTank.AssemblyInfo.cs
+C:\C#\FirstStepInCoding\18.FishTank\obj\Debug\net8.0\18.FishTank.csproj.CoreCompileInputs.cache
+C:\C#\FirstStepInCoding\18.FishTank\obj\Debug\net8.0\18.FishTank.dll
+C:\C#\FirstStepInCoding\18.FishTank\obj\Debug\net8.0\refint\18.FishTank.dll
+C:\C#\FirstStepInCoding\18.FishTank\obj\Debug\net8.0\18.FishTank.pdb
+C:\C#\FirstStepInCoding\18.FishTank\obj\Debug\net8.0\18.FishTank.genruntimeconfig.cache
+C:\C#\FirstStepInCoding\18.FishTank\obj\Debug\net8.0\ref\18.FishTank.dll
